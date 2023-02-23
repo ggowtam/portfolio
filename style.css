@@ -382,7 +382,7 @@ img:hover {
 
 
 .skills {
-    color: black;
+    color: rgb(255, 255, 255);
     background: white;
 }
 
@@ -398,7 +398,7 @@ img:hover {
 .skills .serv-content .card1 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -440,7 +440,7 @@ img:hover {
 .skills .serv-content .card2 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -482,7 +482,7 @@ img:hover {
 .skills .serv-content .card3 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -524,7 +524,7 @@ img:hover {
 .skills .serv-content .card4 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -566,7 +566,7 @@ img:hover {
 .skills .serv-content .card5 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -608,7 +608,7 @@ img:hover {
 .skills .serv-content .card6 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -650,7 +650,7 @@ img:hover {
 .skills .serv-content .card7 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -692,7 +692,7 @@ img:hover {
 .skills .serv-content .card8 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -734,7 +734,7 @@ img:hover {
 .skills .serv-content .card9 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
@@ -776,7 +776,7 @@ img:hover {
 .skills .serv-content .card10 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #3c3939;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
