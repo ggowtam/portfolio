@@ -70,7 +70,7 @@ $(document).ready(function(){
     
     });
 {
-    gsap.from('.text-1',{opacity: 1, duration: 2, delay:.8, y:25})
+    gsap.from('.text-1',{opacity: 0, duration: 2, delay:.8, y:25})
     gsap.from('.text-2',{opacity: 0, duration: 2, delay:1, y:25})
     gsap.from('.text-3',{opacity: 0, duration: 2, delay:1.2, y:25})
     gsap.from('.logo', {opacity: 0, duration: 2, delay:1.5, y:25, ease:'expo.out', stagger:.2})
