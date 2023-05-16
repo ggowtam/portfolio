@@ -441,7 +441,7 @@ img:hover {
 .skills .serv-content .card2 {
     width: calc(25% - 15px);
     height: 150px;
-    background: #ff0000;
+    background: #a3a3a3;
     text-align: center;
     border-radius: 6px;
     padding: 50px 130px;
