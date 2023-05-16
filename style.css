@@ -341,7 +341,7 @@ img:hover {
 .abilities .serv-content .card {
     width: calc(33% - 20px);
     height: 250px;
-    background: #ff0000;
+    background: #222;
     text-align: center;
     border-radius: 6px;
     padding: 20px 25px;
